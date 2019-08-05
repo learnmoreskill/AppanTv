@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "735047794878",
+    "firebase_url": "https://tvapp-578dc.firebaseio.com",
+    "project_id": "tvapp-578dc",
+    "storage_bucket": "tvapp-578dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735047794878:android:8a922f88077ee7e0",
+        "android_client_info": {
+          "package_name": "com.orangicsmarttechnology.appantv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735047794878-n2d6ln260nmvv43kppfcpakf7mlhsevi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orangicsmarttechnology.appantv",
+            "certificate_hash": "2b7ec69bbb9b84ce09bc9cb0038695b51d47f2dc"
+          }
+        },
+        {
+          "client_id": "735047794878-t0f1hb36o1g3u8275c9pgjuu18pcc2qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqBI7xwW7zE3S6_4Zfeo5rsC1mCtqhnU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735047794878-t0f1hb36o1g3u8275c9pgjuu18pcc2qp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
